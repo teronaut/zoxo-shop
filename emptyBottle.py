@@ -5,7 +5,7 @@ def drink(numBottles, exchangeBottles):
         return(1)
     else:
         return(drink(numBottles/exchangeBottles,exchangeBottles)+drank)
-numBottles=9
+numBottles=10
 exchangeBottles=3
 print(drink(numBottles, exchangeBottles))
 
