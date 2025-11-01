@@ -6,4 +6,4 @@ def drink(numBottles, exchangeBottles):
 
 numBottles=9
 exchangeBottles=3
-
+drink(numBottles, exchangeBottles)
